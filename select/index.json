@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オルドバイ",
+  "base_artist": "秋山璃月",
+  "createdAt": "2025-12-14T05:16:22.018054Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オルドバイ",
+      "artist": "秋山璃月",
+      "has_synced": false,
+      "path": "select/pl_01_オルドバイ_秋山璃月.txt"
+    }
+  ]
+}
